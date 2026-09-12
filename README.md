@@ -8,7 +8,7 @@ The goal is to derive actionable insights to help optimize sales strategy and im
 
 ## Dashboard
 
-![Ferns & Petals Sales Dashboard](FernsNPetals_Dashboard.png)
+![Ferns & Petals Sales Dashboard](Dashboard.png)
 
 ## Key Business Questions Answered
 
